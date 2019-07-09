@@ -6,7 +6,7 @@ namespace pokus
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("3");
+            Console.WriteLine("2");
         }
     }
 }
