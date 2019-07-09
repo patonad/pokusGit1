@@ -6,5 +6,6 @@ namespace pokus
 {
     class Commit1
     {
+        //7
     }
 }
