@@ -6,6 +6,6 @@ namespace pokus
 {
     class Commit1
     {
-        //nie
+        //je to tam
     }
 }
