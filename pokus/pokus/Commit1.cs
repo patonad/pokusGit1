@@ -6,6 +6,5 @@ namespace pokus
 {
     class Commit1
     {
-        //nie
     }
 }
