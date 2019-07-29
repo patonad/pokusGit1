@@ -6,7 +6,7 @@ namespace pokus
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("9");
+            Console.WriteLine("GIT");
         }
     }
 }
